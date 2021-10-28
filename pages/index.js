@@ -8,10 +8,10 @@ export default function Home() {
       <Header title="A lonely, code-filled night" zoom />
       <br />
       <Link href="/s/start">
-        <a>get spooky</a>
+        <a>ابدا القصة</a>
       </Link>
       <Link href="/makeyourown">
-        <a>contribute a character</a>
+        <a>ساهم بصنع شخصية</a>
       </Link>
     </Layout>
   );
